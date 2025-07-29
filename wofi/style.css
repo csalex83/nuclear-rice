@@ -1,0 +1,40 @@
+* {
+    font-family: "PxPlus IBM VGA8", "Fixedsys Excelsior 3.01", monospace;
+    font-size: 16px;
+    color: #00FF00;
+    background-color: transparent;
+    border: none;
+}
+
+
+#outer-box {
+    background-color: #000000;
+    border: 2px solid #003300;
+    border-radius: 0px;
+}
+
+#input {
+    background-color: #001100;
+    color: #00FF00;
+    border: 2px solid #003300;
+    border-radius: 0px;
+}
+
+#inner-box {
+    background-color: #000000;
+}
+
+#entry {
+    padding: 5px;
+    background-color: #001100;
+    color: #00FF00;
+    border: 2px solid #003300;
+    border-radius: 0px;
+}
+
+#entry:selected {
+    background-color: #003300;
+    color: #00FF00;
+    border: 2px solid #00AA00;
+}
+
