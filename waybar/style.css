@@ -8,7 +8,7 @@
 
 window#waybar {
   background-color: #000000;
-  border-bottom: 2px solid #00a600;
+  border-bottom: 2px solid #00FF00;
 }
 
 #workspaces button {
@@ -20,13 +20,13 @@ window#waybar {
 
 #workspaces button.active {
   background-color: #003300;
-  border-color: #00AA00;
+  border-color: #00FF00;
 }
 #pulseaudio, #network, #cpu, #memory, #temperature, #battery, #clock, #custom-* {
   padding: 0 10px;
   background-color: #000000;
   color: #00FF00;
-  border-bottom: 2px solid #00AA00
+  border-bottom: 2px solid #00FF00
 }
 
 #battery.charging {
