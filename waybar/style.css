@@ -11,6 +11,10 @@ window#waybar {
   border-bottom: 2px solid #00FF00;
 }
 
+#window {
+  padding-left: 10px;
+}
+
 #workspaces button {
   background-color: #001100;
   color: #00FF00;
@@ -21,7 +25,9 @@ window#waybar {
 #workspaces button.active {
   background-color: #003300;
   border-color: #00FF00;
+  padding-left: 10px;
 }
+
 #pulseaudio, #network, #cpu, #memory, #temperature, #battery, #clock, #custom-* {
   padding: 0 10px;
   background-color: #000000;
