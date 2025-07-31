@@ -1,0 +1,31 @@
+{
+  "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/logo.txt"
+  },
+  "colors": {
+    "1": ""
+  },
+  "modules": [
+        "title",
+        "os",
+        "separator",
+        "cpu",
+        "disk",
+        "font",
+        "gamepad",
+        "gpu",
+        "host",
+        "icons",
+        "locale",
+        "memory",
+        "terminalfont",
+        "os",
+        "packages",
+        "swap",
+        "terminal",
+        "wm",
+        "colors"
+  ]
+}
+
